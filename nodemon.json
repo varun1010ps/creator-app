@@ -1,5 +1,5 @@
 {
-    "restartable":"rs",
+    "restarable":"rs",
     "ignore":[".git","node_modules","dist/","coverage/"],
     "watch":["src/"],
     "exeMap":{
