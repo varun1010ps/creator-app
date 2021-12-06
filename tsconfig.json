@@ -1,0 +1,8 @@
+{
+    "compilerOprions": {
+        "modules":"CommonJS",
+        "target":"ES6",
+        "rootDir":".",
+        "esModuleInterop":true
+    }
+}
