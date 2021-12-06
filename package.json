@@ -1,6 +1,5 @@
 {
   "name": "creator",
-  "type": "module",
   "version": "1.0.0",
   "description": "creator app",
   "main": "App.js",
